@@ -3,8 +3,8 @@ title: Conjuring
 description: Docker-based Jupyterhub server for multi-user computation
 show_downloads: true
 github:
-  zip_url: https://github.com/conjuring/conjuring/archive/master.zip
-  # tar_url: https://github.com/conjuring/conjuring/archive/master.tar.gz
+  zip_url: https://github.com/conjuring/conjuring/zipball/master
+  tar_url: https://github.com/conjuring/conjuring/tarball/master
   repository_url: https://github.com/conjuring/conjuring
   is_project_page: true
   owner_name: Conjuring
