@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Conjuring
 
 A barebones landing page (for now).
