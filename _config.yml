@@ -1,1 +1,12 @@
 theme: jekyll-theme-leap-day
+title: Conjuring
+description: Docker-based Jupyterhub server for multi-user computation
+show_downloads: true
+github:
+  zip_url: https://github.com/conjuring/conjuring/archive/master.zip
+  # tar_url: https://github.com/conjuring/conjuring/archive/master.tar.gz
+  repository_url: https://github.com/conjuring/conjuring
+  is_project_page: true
+  owner_name: Conjuring
+  owner_url: https://github.com/conjuring
+lang: en-GB
